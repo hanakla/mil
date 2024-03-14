@@ -1,6 +1,6 @@
 # mil
 
-[Rouch sketched code]: Micro layout CSS-in-JS library (sketched rough code)
+[Rouch sketched code]: Micro layout CSS-in-JS library
 
 ## Example
 
